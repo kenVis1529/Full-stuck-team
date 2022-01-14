@@ -11,8 +11,10 @@ html, body{
 /* .title{ */
 /* } */
 .portrait{
-    width: 300px;
-    height: 300px;
+    display: block;
+    max-width: 300px;
+    max-height: 300px;
+    margin: 0 auto;
 }
 .member{
     min-width: 340px;
