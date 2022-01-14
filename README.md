@@ -1,2 +1,2 @@
 # Full-stuck-team
-Website for practising
+Website for practising, just be used by Full-stuck members.
